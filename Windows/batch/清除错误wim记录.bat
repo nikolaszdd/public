@@ -1,0 +1,2 @@
+dism /Cleanup-Wim
+pause
